@@ -1,4 +1,4 @@
 Hello from vscode
-Hello GitHub
+Hello from conflict1
 this is my second update
 Adding feature 1 line
