@@ -1,1 +1,2 @@
-Hello from VS code
+Hello from vscode
+Hello GitHub
